@@ -1,0 +1,91 @@
+---
+title: "Coronavirus Fact Sheet"
+subtitle: "Fighting Media Disinformation"
+date: "2020-08-12"
+categories: 
+  - "perspectives"
+  - "coronavirus-fact-sheet"
+  - "coronavirus-pandemic"
+  - "covid-19"
+  - "media-disinformation"
+---
+
+Many Americans have little trust and faith in the mainstream media, which was exacerbated by the 2016 election cycle and subsequent anti-Trumpism. But the coronavirus pandemic has added to the media's woes, which has been at the forefront of consistent misinformation and panic-inducing media coverage of the pandemic.
+
+Accuracy in Academia cuts through the active misinformation and disinformation campaigns from the media, liberal politicians and academics, and elements of the medical profession, to bring you the truth.
+
+Here are ten facts to counter the common myths about the pandemic:
+
+## Headlining the total virus deaths ignores its mortality rate and how many people have recovered from it
+
+Based on recent statistics and increased coronavirus testing, the U.S. mortality (or fatality) rate sits slightly higher than the seasonal pneumonia (i.e. flu). According to Johns Hopkins University's coronavirus [tracker](https://coronavirus.jhu.edu/data/mortality), the U.S. has an observed case-fatality ratio of 3.3%. By comparison, the United Kingdom outpaces the rest of the world at an observed 15.2% mortality rate, followed by Mexico at 10.9%.
+
+Contrary to consistently-misleading media headlines, the U.S. is in comparatively safe territory, while underdeveloped countries such as Mexico, Ecuador (6.5%), and Iran (5.6%) struggle to contain the pandemic. Most headlines cite the total number of fatalities per day or per month to drum up hysteria, fear, and panic. One such example is CBS News's headline, which [read](https://www.cbsnews.com/news/california-coronavirus-cases-10000-deaths-covid-19/), "California surpasses 10,000 coronavirus deaths." The headline did not acknowledge that the figure represented a total sum of deaths due to the pandemic and could have mislead readers to assume it was a daily death count. Also, the CBS News article did not mention the relatively-low case-fatality ratio.
+
+## Coronavirus mortality rate is higher than the flu, but not by much
+
+The seasonal flu's mortality rate, according to the Centers for Disease Control (CDC), was 2% in 2017, which is about the average rate in the U.S. each year. By comparison, the coronavirus case-fatality ratio is slightly higher at 3.3%. Though both diseases are fatal and dangerous to one's health, the statistics disprove the false narrative that the coronavirus is far and above more dangerous than the seasonal flu. To give statistical context, more Americans die each year of heart disease than the flu, and by extension, the coronavirus. In [2017](https://www.cdc.gov/nchs/data/nvsr/nvsr68/nvsr68_09-508.pdf), 23% of deaths in the U.S. were due to heart disease, or over 647,000 deaths. At this point in time, it is not clear whether the coronavirus would surpass the number of deaths caused by heart disease, accidents, and other leading causes of death in the country.
+
+## Hydroxychloroquine can be used to help treat coronavirus patients in some cases
+
+President Donald Trump insisted that hydroxychloroquine could be the miracle drug to help coronavirus patients recover from the virus, which was met with widespread media criticism. Both the media and some medical experts slammed Trump's claims, although there are [some cases](https://www.wsj.com/articles/hydroxychloroquine-given-early-helped-coronavirus-patients-study-finds-11593729664) where early hydroxychloroquine treatment helped patients recover. Now, the drug has been sworn off as giving a false sense of hope, though it has had some success in early treatments.
+
+But the underlying point that hydroxychloroquine had no significant effects on coronavirus patients was a false and potentially-harmful narrative. Just as with any other drug or medicine, patients react differently to different treatments, which could derive from one's genetics, pre-existing conditions, or allergies. It is disingenuous to write off a potential life-saving drug for some people at the cost of scoring political points against the president.
+
+## With increased coronavirus testing, there is a possibility that there are more positive tests
+
+It appears that journalists and medical professionals failed to comprehend that increased testing leads to more positive tests. The U.S. continues to ramp up coronavirus testing, and with it, previously-undiagnosed infected patients tested positive. But solely testing positive is not a death sentence. Instead, some patients who tested positive were asymptomatic and did not suffer harmful effects as others.
+
+The media's lazy narrative did not account for the varying effects of the virus on people's health, whether it was asymptomatic, mild symptoms, or severe symptoms. Additionally, the media [pointed](https://www.statnews.com/2020/07/20/trump-said-more-covid19-testing-creates-more-cases-we-did-the-math/) to several states (New York and New Jersey, to name a few) where increased testing did not lead to a rise in positive tests. But, like any ongoing developments, it was unclear whether there would be another spike in positive tests as testing increases. Eventually, the positive tests will go down as testing continues to ramp up, which the media neglected to point out in their reporting.
+
+## Positive tests for the coronavirus sometimes include double-counting a person who tested positive for the virus
+
+In the case of Virginia, the state government [said](https://justthenews.com/politics-policy/coronavirus/virginia-begin-double-counting-positive-coronavirus-cases) it will count "the number of unique people tested per day" instead of individual people. Meaning, a person who tested positive several times in one day would be double counted in the state health department statistics. The Virginia government claimed that it would allow them to count how many tests have been done each day, despite the concerns about potentially-inflated numbers.
+
+In other states such as Arizona and Ohio, their respective state health departments denied that they double-counted positive coronavirus cases.
+
+In short, it is untrue that double-counting a person's positive tests was as widespread as social media rumors suggested, unless you are a Virginia resident.
+
+## Children and youth are mostly unharmed by the coronavirus; the majority of fatalities come from older, obese, or patients with pre-existing conditions
+
+Although children and youth have tested positive for the coronavirus, the majority of children and youth are unaffected by the coronavirus. A small percentage of all admitted and virus-positive patients were children or youth, while the majority of patients were elderly, older, obese, or had pre-existing health conditions that made them susceptible to the virus. CDC research [pointed out](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932e3.htm?s) that child and youth hospitalizations do occur for the virus, but the "case-fatality rate remains low" even for children with severe coronavirus symptoms.
+
+It is not that children and youth cannot contract the virus and that they are immune from the virus. The point is that they are in as much danger as the older, elderly, obese, and individuals with pre-existing conditions.
+
+It is categorically unfair and dishonest for the media and medical professionals to recommend school closures, as children and youth need classroom instruction, social interactions, and sports to develop skills. This age group is mostly unaffected and it is at a far lower risk than older or elderly Americans. Schools can observe social distancing and mandate mask-wearing, along with frequent hand washing and other safe practices. Shutting schools down completely would have significant educational and social consequences in children and youth for years to come.
+
+## Life is full of risks; it is statistically impossible to expect zero cases and zero deaths
+
+Death is unavoidable; as much as man tries to live as long as possible, death is a part of life. To expect zero cases and zero deaths before a vaccine is statistically impossible because the coronavirus is contagious and there is no sure-fire solution to contain it as of now. Life is not a zero-risk endeavor; one risks their life each and every day due to unpredictable factors, such as natural disasters or accidents. To expect zero cases and zero deaths would be a statistical anomaly and practically impossible without a vaccine.
+
+## Shutting down the economy again will affect more than deaths, such as affecting mental health, payments of mortgages or rents, domestic violence victims, jobs, education, and many other factors
+
+The economic shutdown had far more lasting and punitive effects than some predicted, such as suicides, illicit drug use, mental health issues such as depression, domestic violence incidents, job losses or pay cuts, loss of an academic semester for college students and K-12 students.
+
+One report [mentioned](https://www.npr.org/sections/health-shots/2020/06/01/860739417/domestic-abuse-can-escalate-in-pandemic-and-continue-even-if-you-get-away) how domestic abuse could escalate during the pandemic and another alleged that world hunger could be [exacerbated](https://qz.com/1850947/the-deadly-consequences-of-the-covid-19-economic-shutdown/) by a prolonged economic shutdown.
+
+Other reports [pointed](https://www.cpr.org/2020/08/07/colorado-fentanyl-meth-overdose-deaths-coronavirus-pandemic/) to a potential increase in opioid drug addiction and use, which could lead to overdose deaths in the near future. Mental health issues, such as anxiety and depression, have [risen](https://www.wbtv.com/2020/08/07/depression-anxiety-rise-north-carolina-during-pandemic/) during the pandemic, too, due to a lack of social interaction and disruption of routines and social activities.
+
+Millennials are facing a double-whammy of the 2007 recession combined with the pandemic-induced recession, as the Wall Street Journal [noted](https://www.wsj.com/articles/millennials-just-cant-catch-a-break-11597085135). They hold significant debt, are more susceptible to losing their jobs than older workers, and do not have enough savings to weather prolonged joblessness. The pandemic is exacerbating their financial situation and it could lead to serious economic and social ramifications in the near and far future.
+
+The economic shutdown also impacted education, particularly among low-income students. Low-income students typically lack access to the internet and educational support in homework and extracurricular activities. Forcing families to decide between staying at home to help their child learn and attend class virtually or working is an example of terrible policy.
+
+## CDC and WHO never got their story straight on whether mask-wearing is effective; studies have proven that cloth masks are almost as bad as not wearing a mask
+
+Both the CDC and the World Health Organization (WHO) have failed to instill confidence in the people they allegedly serve during the pandemic. These organizations originally said that mask-wearing was not necessary for those not infected or asymptomatic. But, weeks after that announcement, the organizations reversed course and urged people to wear masks.
+
+The CDC [admitted](https://www.npr.org/sections/coronavirus-live-updates/2020/04/03/826219824/president-trump-says-cdc-now-recommends-americans-wear-cloth-masks-in-public) that the reversal was due to its concerns about mask supplies. The CDC feared that if they recommended mask-wearing, the country would run out of masks for medical professionals and hospital staff. Although studies have disproven the utility of mask-wearing to prevent disease from spreading, the CDC should have gotten its story straight and be more consistent to instill public trust and confidence.
+
+The WHO also bungled its pandemic response, first telling the world that China's government contained the virus's spread. Then, several weeks later, the WHO admitted that the virus spread beyond China's borders and that it was officially a global pandemic. The WHO also avoided criticizing China for covering up the virus's origins and its spread. For example, Dr. Michael Ryan, the WHO's Health Emergencies Program chief, [said](https://www.aim.org/aim-column/ny-times-silent-who-china/) that he was "very pleased to hear a very consistent message coming from China, which is one of openness to such an approach."
+
+## China's cover-up of the virus's origins has taken a back seat and is not being held accountable
+
+Since the beginning of the pandemic, there has been little attention paid to the origin of the coronavirus: Communist Party-run China. The Chinese government published misleading and false claims about how it had stopped the virus from spreading beyond its borders, which the WHO often cited in its press conferences. This blatant misinformation hid the reality: the virus had already spread to Europe and the U.S. by the time government authorities enacted travel bans.
+
+Just as quickly as the virus spread across the world, the Chinese Communists covered up the virus's origins, which was allegedly a wet market in Wuhan. The government also denied a report that the virus was accidentally released by a virology research lab in Wuhan and the mainstream media joined the communist chorus of denial.
+
+As Bill Gertz [reported](https://www.academia.org/china-expert-warns-of-communist-chinese-coronavirus-deception/), China deceived the world about the virus's true origins, which was from the aforementioned virology laboratory. Ever since his report, neither the mainstream media nor Chinese government have been able to effectively discredit his reporting. The Wuhan Institute of Virology, Gertz said, is "linked to the Chinese government's covert virological weapons program." He correctly pointed out that the pandemic could have been avoided "if China had taken the proper steps early on in the outbreak."
+
+Other whistleblowers on the Chinese Communist cover-up were silenced, which included several Chinese doctors. One doctor, the late Dr. Li Wenliang, fought the government's narrative about the virus's origins and his claims were "repressed mercilessly" by the Communist government. Unfortunately, he died from the virus and many Chinese people hailed him as a hero.
+
+The Trump administration has put the blame squarely on China, but the media has moved on from holding China accountable to blaming Trump's pandemic response.

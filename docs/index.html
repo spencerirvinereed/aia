@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>AIA Spencer</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">AIA Spencer</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com"><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">AIA Spencer</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="american-university-at-cairo">american-university-at-cairo <span class="quarto-category-count">(1)</span></div><div class="category" data-category="balfour-declaration">balfour-declaration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="barack-obama">barack-obama <span class="quarto-category-count">(1)</span></div><div class="category" data-category="christianity">christianity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cold-war">cold-war <span class="quarto-category-count">(1)</span></div><div class="category" data-category="coronavirus-fact-sheet">coronavirus-fact-sheet <span class="quarto-category-count">(1)</span></div><div class="category" data-category="coronavirus-pandemic">coronavirus-pandemic <span class="quarto-category-count">(1)</span></div><div class="category" data-category="covid-19">covid-19 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="daesh">daesh <span class="quarto-category-count">(1)</span></div><div class="category" data-category="farahnaz-ispahani">farahnaz-ispahani <span class="quarto-category-count">(1)</span></div><div class="category" data-category="francis-marlo">francis-marlo <span class="quarto-category-count">(1)</span></div><div class="category" data-category="george-washington-university">george-washington-university <span class="quarto-category-count">(1)</span></div><div class="category" data-category="georgetown-university">georgetown-university <span class="quarto-category-count">(1)</span></div><div class="category" data-category="hani-bawardi">hani-bawardi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="heritage-foundation">heritage-foundation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="israel">israel <span class="quarto-category-count">(1)</span></div><div class="category" data-category="jewish-state">jewish-state <span class="quarto-category-count">(1)</span></div><div class="category" data-category="jews">jews <span class="quarto-category-count">(1)</span></div><div class="category" data-category="jonathan-turley">jonathan-turley <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mark-bayer">mark-bayer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="media-disinformation">media-disinformation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mikhail-gorbachev">mikhail-gorbachev <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mla">mla <span class="quarto-category-count">(2)</span></div><div class="category" data-category="mla-2017">mla-2017 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="modern-language-association">modern-language-association <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mounira-soliman">mounira-soliman <span class="quarto-category-count">(1)</span></div><div class="category" data-category="muslims">muslims <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nabil-matar">nabil-matar <span class="quarto-category-count">(1)</span></div><div class="category" data-category="naser-khader">naser-khader <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nicholas-rosenkranz">nicholas-rosenkranz <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nsdd-75">nsdd-75 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="palestinians">palestinians <span class="quarto-category-count">(1)</span></div><div class="category" data-category="perspectives">perspectives <span class="quarto-category-count">(4)</span></div><div class="category" data-category="radical-islam">radical-islam <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ronald-reagan">ronald-reagan <span class="quarto-category-count">(1)</span></div><div class="category" data-category="sag">sag <span class="quarto-category-count">(1)</span></div><div class="category" data-category="screen-actors-guild">screen-actors-guild <span class="quarto-category-count">(1)</span></div><div class="category" data-category="soviet-union">soviet-union <span class="quarto-category-count">(1)</span></div><div class="category" data-category="uk">uk <span class="quarto-category-count">(1)</span></div><div class="category" data-category="united-kingdom">united-kingdom <span class="quarto-category-count">(1)</span></div><div class="category" data-category="university-of-michigan-dearborn">university-of-michigan-dearborn <span class="quarto-category-count">(1)</span></div><div class="category" data-category="university-of-minnesota-twin-cities">university-of-minnesota-twin-cities <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ut-san-antonio">ut-san-antonio <span class="quarto-category-count">(1)</span></div><div class="category" data-category="whittaker-chambers">whittaker-chambers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="writing">writing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="zionism">zionism <span class="quarto-category-count">(1)</span></div><div class="category" data-category="zionist">zionist <span class="quarto-category-count">(1)</span></div></div></div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="writing" data-listing-date-sort="1696572000000" data-listing-file-modified-sort="1696899721540" data-listing-reading-time-sort="0.315">
+<div class="thumbnail">
+<a href="./posts/welcome/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./posts/welcome/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./posts/welcome/index.html">
+<h3 class="no-anchor listing-title">
+Spencer Writes for AIA
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('writing'); return false;">
+writing
+</div>
+</div>
+<a href="./posts/welcome/index.html">
+<div class="listing-description">
+Spencer worked for Accuracy in Media (AIM) and Accuracy in Academia (AIA) for nearly a decade. Performing various tasks in those years.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/welcome/index.html">
+<div class="listing-date">
+Oct 6, 2023
+</div>
+<div class="listing-author">
+Spencer R. Irvine
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="perspectives,coronavirus-fact-sheet,coronavirus-pandemic,covid-19,media-disinformation" data-listing-date-sort="1597212000000" data-listing-file-modified-sort="1696880906740" data-listing-reading-time-sort="9.845">
+<div class="thumbnail">
+<a href="./posts/20200812 COVID19/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./posts/20200812 COVID19/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./posts/20200812 COVID19/index.html">
+<h3 class="no-anchor listing-title">
+Coronavirus Fact Sheet
+</h3>
+<div class="listing-subtitle">
+Fighting Media Disinformation
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('perspectives'); return false;">
+perspectives
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('coronavirus-fact-sheet'); return false;">
+coronavirus-fact-sheet
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('coronavirus-pandemic'); return false;">
+coronavirus-pandemic
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('covid-19'); return false;">
+covid-19
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('media-disinformation'); return false;">
+media-disinformation
+</div>
+</div>
+<a href="./posts/20200812 COVID19/index.html">
+<div class="listing-description">
+Many Americans have little trust and faith in the mainstream media, which was exacerbated by the 2016 election cycle and subsequent…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/20200812 COVID19/index.html">
+<div class="listing-date">
+Aug 12, 2020
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="mla,american-university-at-cairo,balfour-declaration,hani-bawardi,israel,jewish-state,jews,mark-bayer,mla,mla-2017,modern-language-association,mounira-soliman,nabil-matar,palestinians,uk,united-kingdom,university-of-michigan-dearborn,university-of-minnesota-twin-cities,ut-san-antonio,zionism,zionist" data-listing-date-sort="1486710000000" data-listing-file-modified-sort="1696899433608" data-listing-reading-time-sort="3.97">
+<div class="thumbnail">
+<p><a href="./posts/20170210 British Roots Zionism/index.html"> <img src="https://www.academia.org/wp-content/plugins/wp-inject/images/cc.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/20170210 British Roots Zionism/index.html">
+<h3 class="no-anchor listing-title">
+British Christian “Imperialism” led to Zionism and Israel’s Creation, Professors Claim
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('mla'); return false;">
+mla
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('american-university-at-cairo'); return false;">
+american-university-at-cairo
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('balfour-declaration'); return false;">
+balfour-declaration
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('hani-bawardi'); return false;">
+hani-bawardi
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('israel'); return false;">
+israel
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('jewish-state'); return false;">
+jewish-state
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('jews'); return false;">
+jews
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mark-bayer'); return false;">
+mark-bayer
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mla'); return false;">
+mla
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mla-2017'); return false;">
+mla-2017
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('modern-language-association'); return false;">
+modern-language-association
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mounira-soliman'); return false;">
+mounira-soliman
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nabil-matar'); return false;">
+nabil-matar
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('palestinians'); return false;">
+palestinians
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('uk'); return false;">
+uk
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('united-kingdom'); return false;">
+united-kingdom
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('university-of-michigan-dearborn'); return false;">
+university-of-michigan-dearborn
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('university-of-minnesota-twin-cities'); return false;">
+university-of-minnesota-twin-cities
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ut-san-antonio'); return false;">
+ut-san-antonio
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('zionism'); return false;">
+zionism
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('zionist'); return false;">
+zionist
+</div>
+</div>
+<a href="./posts/20170210 British Roots Zionism/index.html">
+<div class="listing-description">
+The Modern Language Association held a panel discussion of professors who were critical of Zionism and Israel and…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/20170210 British Roots Zionism/index.html">
+<div class="listing-date">
+Feb 10, 2017
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="perspectives,cold-war,francis-marlo,mikhail-gorbachev,nsdd-75,ronald-reagan,sag,screen-actors-guild,soviet-union,whittaker-chambers" data-listing-date-sort="1460440800000" data-listing-file-modified-sort="1696872716969" data-listing-reading-time-sort="3.52">
+<div class="thumbnail">
+<p><a href="./posts/20160412 Cold War/index.html"> <img src="https://www.academia.org/wp-content/plugins/wp-inject/images/cc.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/20160412 Cold War/index.html">
+<h3 class="no-anchor listing-title">
+How Reagan Won the Cold War
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('perspectives'); return false;">
+perspectives
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cold-war'); return false;">
+cold-war
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('francis-marlo'); return false;">
+francis-marlo
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mikhail-gorbachev'); return false;">
+mikhail-gorbachev
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nsdd-75'); return false;">
+nsdd-75
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ronald-reagan'); return false;">
+ronald-reagan
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('sag'); return false;">
+sag
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('screen-actors-guild'); return false;">
+screen-actors-guild
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('soviet-union'); return false;">
+soviet-union
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('whittaker-chambers'); return false;">
+whittaker-chambers
+</div>
+</div>
+<a href="./posts/20160412 Cold War/index.html">
+<div class="listing-description">
+Ronald Reagan’s legacy, long after his passing, continues to be distorted by the leftist academic community, one professor noted at a panel discussion held at the Heritage…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/20160412 Cold War/index.html">
+<div class="listing-date">
+Apr 12, 2016
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="perspectives,christianity,daesh,farahnaz-ispahani,heritage-foundation,muslims,naser-khader,radical-islam" data-listing-date-sort="1450594800000" data-listing-file-modified-sort="1696879822246" data-listing-reading-time-sort="4.76">
+<div class="thumbnail">
+<p><a href="./posts/20151220 Muslim Extremism/index.html"> <img src="https://www.academia.org/wp-content/uploads/2015/12/heritage-muslim-voices-event-300x185.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/20151220 Muslim Extremism/index.html">
+<h3 class="no-anchor listing-title">
+Muslim Voices Against Radical Extremism
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('perspectives'); return false;">
+perspectives
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('christianity'); return false;">
+christianity
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('daesh'); return false;">
+daesh
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('farahnaz-ispahani'); return false;">
+farahnaz-ispahani
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('heritage-foundation'); return false;">
+heritage-foundation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('muslims'); return false;">
+muslims
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('naser-khader'); return false;">
+naser-khader
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('radical-islam'); return false;">
+radical-islam
+</div>
+</div>
+<a href="./posts/20151220 Muslim Extremism/index.html">
+<div class="listing-description">
+At the Heritage Foundation recently, several voices against radical Islam and extreme Islamist ideology stood as a stark contrast to the spokesmen represented in the typical 24-hour news cycle. Naser…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/20151220 Muslim Extremism/index.html">
+<div class="listing-date">
+Dec 20, 2015
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="barack-obama,george-washington-university,georgetown-university,jonathan-turley,nicholas-rosenkranz" data-listing-date-sort="1399960800000" data-listing-file-modified-sort="1696869539520" data-listing-reading-time-sort="9.63">
+<div class="thumbnail">
+<p><a href="./posts/20140513 Muscular Presidency/index.html"> <img src="https://www.academia.org/wp-content/uploads/2014/05/jonathan-turley-300x168.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/20140513 Muscular Presidency/index.html">
+<h3 class="no-anchor listing-title">
+Professors Deconstruct Obama’s Muscular Presidency
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('barack-obama'); return false;">
+barack-obama
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('george-washington-university'); return false;">
+george-washington-university
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('georgetown-university'); return false;">
+georgetown-university
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('jonathan-turley'); return false;">
+jonathan-turley
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nicholas-rosenkranz'); return false;">
+nicholas-rosenkranz
+</div>
+</div>
+<a href="./posts/20140513 Muscular Presidency/index.html">
+<div class="listing-description">
+Law professors Jonathan Turley of George Washington University and Nicholas Rosenkranz of Georgetown slammed President Obama’s “muscular…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/20140513 Muscular Presidency/index.html">
+<div class="listing-date">
+May 13, 2014
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="perspectives" data-listing-date-sort="1315461600000" data-listing-file-modified-sort="1696871670140" data-listing-reading-time-sort="5.13">
+<div class="thumbnail">
+<a href="./posts/20110908 Affirmative Action/index.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./posts/20110908 Affirmative Action/index.html"></a></p>
+</div>
+<div class="body">
+<a href="./posts/20110908 Affirmative Action/index.html">
+<h3 class="no-anchor listing-title">
+Affirmative Action or Privilege?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('perspectives'); return false;">
+perspectives
+</div>
+</div>
+<a href="./posts/20110908 Affirmative Action/index.html">
+<div class="listing-description">
+Dr.&nbsp;Anthony Bradley, author of the new book <em>Black and Tired: Essays on Race, Politics, Culture, and International Development</em>, spoke at the Heritage Foundation about his research on…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/20110908 Affirmative Action/index.html">
+<div class="listing-date">
+Sep 8, 2011
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
