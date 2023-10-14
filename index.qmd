@@ -1,5 +1,5 @@
 ---
-title: "AIA Spencer"
+title: "for Accuracy in Academia (AIA)"
 listing:
   contents: posts
   sort: "date desc"

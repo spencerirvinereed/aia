@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "AIA Spencer"
+  title: "Spencer Writes"
   navbar:
     right:
       - about.qmd
